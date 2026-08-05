@@ -8,17 +8,17 @@ Dupla (M2 em diante):
 
 ## M2 - Quem quebrou o painel
 
-**Hash curto do commit que introduziu o erro:**
+Hash curto do commit que introduziu o erro: 01ef93bf03e4a7f92922a5a9b995acf628f84f9a
 
-**Autor:**
+Autor: Tarcisio Melo
 
-**Data:**
+Data: 15/06/2026 22:38:00 - Segunda-Feira
 
 **Linha alterada (antes e depois):**
 
 ```
-antes:
-depois:
+antes: return (leitura - 32) * 5 / 9;
+depois: return leitura * 9 / 5 + 32;
 ```
 
 ---
